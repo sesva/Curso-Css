@@ -1,0 +1,33 @@
+*{
+	color: orange;
+}
+
+body{
+	background-color: #cccccc;
+	color: peru;
+}
+
+p{
+	color: yellow;
+}
+p{
+	color: blue;
+}
+
+p{
+	color: red;
+}
+
+body>p{
+	color: yellow;
+}
+
+.color{
+	color: pink !important;
+}
+
+#color{
+	color: green;
+}
+
+
