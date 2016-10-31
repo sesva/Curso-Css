@@ -1,33 +1,28 @@
-*{
-	color: orange;
-}
-
 body{
-	background-color: #cccccc;
-	color: peru;
+	background-color: peru;
 }
 
-p{
-	color: yellow;
-}
-p{
+/*h1, h2, p{
 	color: blue;
-}
+	font-size: 20px;
+}*/
 
-p{
+p span{
 	color: red;
 }
 
-body>p{
+article{
+	background-color: green;
+}
+
+#identificador{
+	background-color: maroon;
+}
+
+.clase{
 	color: yellow;
 }
 
-.color{
-	color: pink !important;
+.aviso .especial{
+	font-size: 50px;
 }
-
-#color{
-	color: green;
-}
-
-
